@@ -1,6 +1,6 @@
-# Web Development Journey 🚀
+# 100 Days Of Python By Angela Yu:
 
-A professional and minimalist repository documenting my progress and projects from the **Complete Web Development Bootcamp**. This repository contains all the code, exercises, and projects I've built while learning full-stack web development.
+A professional and minimalist repository documenting my progress and projects from the **100 Days Of Python Bootcamp**. This repository contains all the code, exercises, and projects I've built while learning full-stack web development.
 
 ## 📚 Topics Covered
 
