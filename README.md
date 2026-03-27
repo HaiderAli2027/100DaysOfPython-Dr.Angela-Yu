@@ -2,7 +2,7 @@
 
 A professional and minimalist repository documenting my progress and projects from the **100 Days Of Python Bootcamp**. This repository contains all the code, exercises, and projects I've built while learning full-stack web development.
 
-## 📚 Topics Covered
+## Topics Covered
 
 ### Frontend Development
 - **HTML5:** Semantic Elements, Forms, Media Elements, and Boilerplate Structuring.
@@ -19,7 +19,7 @@ A professional and minimalist repository documenting my progress and projects fr
 - **RESTful APIs:** Building, routing, and consuming REST APIs (GET, POST, PUT, PATCH, DELETE).
 - **Web Applications:** Building dynamic, data-driven personal sites and full-stack blogs.
 
-## 🛠️ Featured Projects
+## Featured Projects
 
 Throughout the course, I've built several hands-on projects to solidify my learning. Highlights include:
 
@@ -34,7 +34,7 @@ Throughout the course, I've built several hands-on projects to solidify my learn
 - **REST API Cafe (`Rest_Api_Cafe`):** A custom backend database API built to organize and search through the best cafes.
 - **Top Movies Project (`TopMovie_Project`):** An SQL database-driven application tracking favorite movies using SQLAlchemy.
 
-## 💡 Navigating this Repository
+## Navigating this Repository
 Each folder is organized intuitively by module number or project name. 
 - **Frontend projects:** simply navigate into a directory and open the `index.html` file in any web browser.
 - **Backend projects:** activate a Python virtual environment, install the required packages, and run the main entry point (typically `python main.py` or similar).
